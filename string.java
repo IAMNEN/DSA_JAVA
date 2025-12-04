@@ -5,7 +5,15 @@ public class string {
         String str3 = new String("Nen");
 
         System.out.println(str1 == str2);// same string values
-        System.out.println(str1 == str3);// different object 
+        System.out.println(str1 == str3);// different object
         System.out.println(str1.equals(str3));//
     }
 }
+// Common String Operation
+// text.length
+// text.charAt(position)
+// text.substring(start,end)
+// text.contains(enter values to find)
+// text.replace("old","new")
+
+//after using common every time create new string
